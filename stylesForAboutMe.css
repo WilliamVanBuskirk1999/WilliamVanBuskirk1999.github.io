@@ -2,7 +2,9 @@ div{
   float:left;
   border-style:solid;
   margin-top:3%;
-  padding:0.5%;
+  width:80%;
+  text-align:center;
+  margin-left:10%;
 }
 
 h1{
