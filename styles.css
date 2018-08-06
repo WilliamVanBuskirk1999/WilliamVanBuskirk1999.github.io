@@ -1,10 +1,12 @@
 h1{
   text-align: center;
   font-size:200%;
+  color:white;
 }
 
 nav{
   text-align:center;
+  background-color:white;
 }
 
 a:hover{
@@ -19,19 +21,24 @@ a:hover{
 }
 
 #welcome{
-  margin-right:49%
+  margin-right:30%
 }
 
 #welcome2{
-  margin-right:49%;
+  margin-right:30%;
+}
+
+#skills{
+float:left;
+border-style:double;
+padding:1%;
+  background-color: white;
 }
 
 body{
-background-image: url("images/pattern (3).png")
+background-color:black;
 }
 
 main{
-  background-image:url("images/download.png");
-  background-repeat: no-repeat;
-  background-position:center;
+  background-color: white;
 }
